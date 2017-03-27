@@ -1,0 +1,32 @@
+{
+  "test_1":{
+    "test_name": "test_1",
+    "amount":"150",
+    "fromCurrency": "EUR",
+    "toCurrency": "GBP"
+  },
+  "test_2":{
+    "test_name": "test_2",
+    "amount":"150.99",
+    "fromCurrency": "EUR",
+    "toCurrency": "GBP"
+  },
+  "test_3":{
+    "test_name": "test_3",
+    "amount":"1500",
+    "fromCurrency": "EUR",
+    "toCurrency": "GBP"
+  },
+  "test_4":{
+    "test_name": "test_4",
+    "amount":"3000.89",
+    "fromCurrency": "EUR",
+    "toCurrency": "GBP"
+  },
+  "test_5":{
+    "test_name": "test_5",
+    "amount":"123.123",
+    "fromCurrency": "EUR",
+    "toCurrency": "GBP"
+  }
+}

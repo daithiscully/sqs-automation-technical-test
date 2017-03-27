@@ -1,0 +1,1 @@
+start cmd.exe /k "cd .. && mvn clean test site"
